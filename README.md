@@ -1,14 +1,15 @@
-# Ukrainian-Jirecheka
+# Ukrains'ka-Jirečeka
  
 ## Mac Ukrainian Latin Layout, Jirecheka ##
-Ukraijins'ka latynka dl'a Maka na osnovi standartnoji anglijs'koji rozkladky. Dodano bykvu ž, č, š, Ď i t.d. Vony dodajut'sa na 
+Ukraijins'ka latynka dl'a Maka na osnovi standartnoji anglijs'koji rozkladky. Dodano bykvu ž, č, š, Ď i t.d. Vony aktyvizujut'sa nažymann'am "alt" abo "ctrl" + bazova bukva, napryklad alt+c=č,alt+shift+c=Č, ctrl+c=ć. Takož može buty vykorystano dl'a inšyh variantiv latynky http://goo.gl/iWCzbF
 
-    git clone https://github.com/palmerc/Ukrainian-Russian.git
-    cd Ukrainian-Russian/
-    sudo cp Ukrainian\ \(Russian\).* /Library/Keyboard\ Layouts/
+## Vykorystann'a: ##
+    git clone https://github.com/bmarchenko/Ukrainian-Jirecheka.git
+    cd Ukrainian-Jirecheka/
+    sudo cp Ukrainian-Jirecheka/.* /Library/Keyboard\ Layouts/
 
-### Modify the layout ###
+### Zminyty pid sebe ###
 
-Feel the need to update the layout to your liking by adding in the Ukrainian language characters? Download the keyboard layout tool [Ukelele][0] and have at it.
+Možna vykorystovujučy [Ukelele][0] .
 
 [0]: http://scripts.sil.org/ukelele
