@@ -5,7 +5,9 @@ Ukraijins'ka latynka dl'a Maka na osnovi standartnoji anglijs'koji rozkladky. An
 
 ## Vykorystann'a: ##
  1. Zkopijuvaty fajly Ukrainian(Jireceka).icns ta Ukrainian(Jireceka).keylayout v papku  /Library/Keyboard Layouts/.
+
   abo:
+
    Dl'a tuh, hto maje git:
     git clone https://github.com/bmarchenko/Ukrainian-Jirecheka.git
     cd Ukrainian-Jirecheka/
