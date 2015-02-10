@@ -5,13 +5,14 @@ Ukraijins'ka latynka dl'a Maka na osnovi standartnoji anglijs'koji rozkladky. An
 
 ## Vykorystann'a: ##
  1. Zkopijuvaty fajly Ukrainian(Jireceka).icns ta Ukrainian(Jireceka).keylayout v papku  /Library/Keyboard Layouts/.
- 2. Dl'a tuh, hto maje git:
+  abo:
+   Dl'a tuh, hto maje git:
     git clone https://github.com/bmarchenko/Ukrainian-Jirecheka.git
     cd Ukrainian-Jirecheka/
     sudo cp Ukrainian-Jirecheka/Ukrainian\(Jireceka\).icns /Library/Keyboard\ Layouts/
     sudo cp Ukrainian-Jirecheka/Ukrainian\(Jireceka\).keylayout /Library/Keyboard\ Layouts/
 
-Dali jdemo v Preferences (Nalaštuvann'a) -> Keyboard (Klaviatyra) -> Input Sources (Wod, ostannij tab), nažymaemo "+", obyraemo Ukrainian -> Others (Inši) -> Ukrainian(Jirečeka).
+2. Dali jdemo v Preferences (Nalaštuvann'a) -> Keyboard (Klaviatyra) -> Input Sources (Wod, ostannij tab), nažymaemo "+", obyraemo Ukrainian -> Others (Inši) -> Ukrainian(Jirečeka).
 
 ### Zminyty pid sebe ###
 
